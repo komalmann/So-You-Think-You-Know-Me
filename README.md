@@ -1,6 +1,6 @@
 # So You Think Know Me?
 
-This is an attractive CLI quiz app built with node.js. 
+This is an interactive CLI quiz app built with node.js. 
 
 # What's it about?
 
